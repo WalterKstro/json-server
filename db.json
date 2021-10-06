@@ -6,7 +6,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Bruce Wayne",
       "first_appearance":"Detective Comics #27",
-      "characters":"Bruce Wayne"
+      "characters":"Bruce Wayne",
+      "photo" : "./assets/dc-batman.jpg"
     },
     {
       "id": "dc-superman",
@@ -14,7 +15,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Kal-El",
       "first_appearance":"Action Comics #1",
-      "characters":"Kal-El"
+      "characters":"Kal-El",
+      "photo" : "./assets/dc-superman.jpg"
     },
     {
       "id": "dc-flash",
@@ -22,7 +24,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Jay Garrick",
       "first_appearance":"Flash Comics #1",
-      "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen"
+      "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "photo" : "./assets/dc-flash.jpg"
     },
     {
       "id": "dc-green",
@@ -30,7 +33,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Alan Scott",
       "first_appearance":"All-American Comics #16",
-      "characters":"Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+      "characters":"Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+      "photo" : "./assets/dc-green.jpg"
     },
     {
       "id": "dc-arrow",
@@ -38,7 +42,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Oliver Queen",
       "first_appearance":"More Fun Comics #73",
-      "characters":"Oliver Queen"
+      "characters":"Oliver Queen",
+      "photo" : "./assets/dc-arrow.jpg"
     },
     {
       "id": "dc-wonder",
@@ -46,7 +51,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Princess Diana",
       "first_appearance":"All Star Comics #8",
-      "characters":"Princess Diana"
+      "characters":"Princess Diana",
+      "photo" : "./assets/dc-wonder.jpg"
     },
     {
       "id": "dc-martian",
@@ -54,7 +60,8 @@
       "publisher":"DC Comics",
       "alter_ego":"J\"onn J\"onzz",
       "first_appearance":"Detective Comics #225",
-      "characters":"Martian Manhunter"
+      "characters":"Martian Manhunter",
+      "photo" : "./assets/dc-martian.jpg"
     },
     {
       "id": "dc-robin",
@@ -62,7 +69,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Dick Grayson",
       "first_appearance":"Detective Comics #38",
-      "characters":"Dick Grayson"
+      "characters":"Dick Grayson",
+      "photo" : "./assets/dc-robin.jpg"
     },
     {
       "id": "dc-blue",
@@ -70,7 +78,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Dan Garret",
       "first_appearance":"Mystery Men Comics #1",
-      "characters":"Dan Garret, Ted Kord, Jaime Reyes"
+      "characters":"Dan Garret, Ted Kord, Jaime Reyes",
+      "photo" : "./assets/dc-blue.jpg"
     },
     {
       "id": "dc-black",
@@ -78,7 +87,8 @@
       "publisher":"DC Comics",
       "alter_ego":"Dinah Drake",
       "first_appearance":"Flash Comics #86",
-      "characters":"Dinah Drake, Dinah Lance"
+      "characters":"Dinah Drake, Dinah Lance",
+      "photo" : "./assets/dc-black.jpg"
     },
     {
       "id": "marvel-spider",
@@ -86,7 +96,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Peter Parker",
       "first_appearance":"Amazing Fantasy #15",
-      "characters":"Peter Parker"
+      "characters":"Peter Parker",
+      "photo" : "./assets/marvel-spider.jpg"
     },
     {
       "id": "marvel-captain",
@@ -94,7 +105,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Steve Rogers",
       "first_appearance":"Captain America Comics #1",
-      "characters":"Steve Rogers"
+      "characters":"Steve Rogers",
+      "photo" : "./assets/marvel-captain.jpg"
     },
     {
       "id": "marvel-iron",
@@ -102,7 +114,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Tony Stark",
       "first_appearance":"Tales of Suspense #39",
-      "characters":"Tony Stark"
+      "characters":"Tony Stark",
+      "photo" : "./assets/marvel-iron.jpg"
     },
     {
       "id": "marvel-thor",
@@ -110,7 +123,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Thor Odinson",
       "first_appearance":"Journey into Myster #83",
-      "characters":"Thor Odinson"
+      "characters":"Thor Odinson",
+      "photo" : "./assets/marvel-thor.jpg"
     },
     {
       "id": "marvel-hulk",
@@ -118,7 +132,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Bruce Banner",
       "first_appearance":"The Incredible Hulk #1",
-      "characters":"Bruce Banner"
+      "characters":"Bruce Banner",
+      "photo" : "./assets/marvel-hulk.jpg"
     },
     {
       "id": "marvel-wolverine",
@@ -126,7 +141,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"James Howlett",
       "first_appearance":"The Incredible Hulk #180",
-      "characters":"James Howlett"
+      "characters":"James Howlett",
+      "photo" : "./assets/marvel-wolverine.jpg"
     },
     {
       "id": "marvel-daredevil",
@@ -134,7 +150,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Matthew Michael Murdock",
       "first_appearance":"Daredevil #1",
-      "characters":"Matthew Michael Murdock"
+      "characters":"Matthew Michael Murdock",
+      "photo" : "./assets/marvel-daredevil.jpg"
     },
     {
       "id": "marvel-hawkeye",
@@ -142,7 +159,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Clinton Francis Barton",
       "first_appearance":"Tales of Suspense #57",
-      "characters":"Clinton Francis Barton"
+      "characters":"Clinton Francis Barton",
+      "photo" : "./assets/marvel-hawkeye.jpg"
     },
     {
       "id": "marvel-cyclops",
@@ -150,7 +168,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Scott Summers",
       "first_appearance":"X-Men #1",
-      "characters":"Scott Summers"
+      "characters":"Scott Summers",
+      "photo" : "./assets/marvel-cyclops.jpg"
     },
     {
       "id": "marvel-silver",
@@ -158,7 +177,8 @@
       "publisher":"Marvel Comics",
       "alter_ego":"Norrin Radd",
       "first_appearance":"The Fantastic Four #48",
-      "characters":"Norrin Radd"
+      "characters":"Norrin Radd",
+      "photo" : "./assets/marvel-silver.jpg"
     }
   ]
 }
