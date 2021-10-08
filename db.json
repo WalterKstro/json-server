@@ -7,7 +7,7 @@
       "alter_ego":"Bruce Wayne",
       "first_appearance":"Detective Comics #27",
       "characters":"Bruce Wayne",
-      "photo" : "./assets/dc-batman.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-superman",
@@ -16,7 +16,7 @@
       "alter_ego":"Kal-El",
       "first_appearance":"Action Comics #1",
       "characters":"Kal-El",
-      "photo" : "./assets/dc-superman.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-flash",
@@ -25,7 +25,7 @@
       "alter_ego":"Jay Garrick",
       "first_appearance":"Flash Comics #1",
       "characters":"Jay Garrick, Barry Allen, Wally West, Bart Allen",
-      "photo" : "./assets/dc-flash.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-green",
@@ -34,7 +34,7 @@
       "alter_ego":"Alan Scott",
       "first_appearance":"All-American Comics #16",
       "characters":"Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
-      "photo" : "./assets/dc-green.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-arrow",
@@ -43,7 +43,7 @@
       "alter_ego":"Oliver Queen",
       "first_appearance":"More Fun Comics #73",
       "characters":"Oliver Queen",
-      "photo" : "./assets/dc-arrow.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-wonder",
@@ -52,7 +52,7 @@
       "alter_ego":"Princess Diana",
       "first_appearance":"All Star Comics #8",
       "characters":"Princess Diana",
-      "photo" : "./assets/dc-wonder.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-martian",
@@ -61,7 +61,7 @@
       "alter_ego":"J\"onn J\"onzz",
       "first_appearance":"Detective Comics #225",
       "characters":"Martian Manhunter",
-      "photo" : "./assets/dc-martian.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-robin",
@@ -70,7 +70,7 @@
       "alter_ego":"Dick Grayson",
       "first_appearance":"Detective Comics #38",
       "characters":"Dick Grayson",
-      "photo" : "./assets/dc-robin.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-blue",
@@ -79,7 +79,7 @@
       "alter_ego":"Dan Garret",
       "first_appearance":"Mystery Men Comics #1",
       "characters":"Dan Garret, Ted Kord, Jaime Reyes",
-      "photo" : "./assets/dc-blue.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "dc-black",
@@ -88,7 +88,7 @@
       "alter_ego":"Dinah Drake",
       "first_appearance":"Flash Comics #86",
       "characters":"Dinah Drake, Dinah Lance",
-      "photo" : "./assets/dc-black.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-spider",
@@ -97,7 +97,7 @@
       "alter_ego":"Peter Parker",
       "first_appearance":"Amazing Fantasy #15",
       "characters":"Peter Parker",
-      "photo" : "./assets/marvel-spider.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-captain",
@@ -106,7 +106,7 @@
       "alter_ego":"Steve Rogers",
       "first_appearance":"Captain America Comics #1",
       "characters":"Steve Rogers",
-      "photo" : "./assets/marvel-captain.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-iron",
@@ -115,7 +115,7 @@
       "alter_ego":"Tony Stark",
       "first_appearance":"Tales of Suspense #39",
       "characters":"Tony Stark",
-      "photo" : "./assets/marvel-iron.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-thor",
@@ -124,7 +124,7 @@
       "alter_ego":"Thor Odinson",
       "first_appearance":"Journey into Myster #83",
       "characters":"Thor Odinson",
-      "photo" : "./assets/marvel-thor.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-hulk",
@@ -133,7 +133,7 @@
       "alter_ego":"Bruce Banner",
       "first_appearance":"The Incredible Hulk #1",
       "characters":"Bruce Banner",
-      "photo" : "./assets/marvel-hulk.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-wolverine",
@@ -142,7 +142,7 @@
       "alter_ego":"James Howlett",
       "first_appearance":"The Incredible Hulk #180",
       "characters":"James Howlett",
-      "photo" : "./assets/marvel-wolverine.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-daredevil",
@@ -151,7 +151,7 @@
       "alter_ego":"Matthew Michael Murdock",
       "first_appearance":"Daredevil #1",
       "characters":"Matthew Michael Murdock",
-      "photo" : "./assets/marvel-daredevil.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-hawkeye",
@@ -160,7 +160,7 @@
       "alter_ego":"Clinton Francis Barton",
       "first_appearance":"Tales of Suspense #57",
       "characters":"Clinton Francis Barton",
-      "photo" : "./assets/marvel-hawkeye.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-cyclops",
@@ -169,7 +169,7 @@
       "alter_ego":"Scott Summers",
       "first_appearance":"X-Men #1",
       "characters":"Scott Summers",
-      "photo" : "./assets/marvel-cyclops.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     },
     {
       "id": "marvel-silver",
@@ -178,7 +178,7 @@
       "alter_ego":"Norrin Radd",
       "first_appearance":"The Fantastic Four #48",
       "characters":"Norrin Radd",
-      "photo" : "./assets/marvel-silver.jpg"
+      "photo" : "https://cdn.pixabay.com/photo/2016/03/05/20/09/bake-1238681_960_720.jpg"
     }
   ]
 }
